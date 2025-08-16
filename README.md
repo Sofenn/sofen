@@ -33,9 +33,13 @@ Currently focused on building services from scratch.
 	<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 	<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 	<img alt="KeyDB" src="https://img.shields.io/badge/-KeyDB-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+**API Integrations**
+<p>
 	<img alt="discord.py" src="https://img.shields.io/badge/-discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" />
 	<img alt="discord.js" src="https://img.shields.io/badge/-discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
-</p>
+<p>
 
 **DevOps**
 
