@@ -1,4 +1,4 @@
-# 👋 Hi, I'm sofen ![](https://visitor-badge.laobi.icu/badge?page_id=sofen.readme)
+# 👋 Hi, I'm sofen ![](https://visitor-badge.laobi.icu/badge?page_id=Sofenn.readme)
 
 Building with: **@python @fastapi @reactjs and javascript**
 
